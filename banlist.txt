@@ -633,4 +633,6 @@ dukan_rex
 stygian_styx
 twitchstreamerdiscord
 valentinaalcaraz
+anna_banana_10
+paulaarrigui
 BANLISTEND
